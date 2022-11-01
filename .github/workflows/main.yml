@@ -1,5 +1,5 @@
 name: AWS-BeanStalk-Pipeline
-
+ 
 env:
   APP_S3_BUCKET_NAME: "elasticbeanstalk-us-east-2-543403199570"
   APP_NAME : "CBRE-Test" # YOUR BENSTALK APP NAME
